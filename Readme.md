@@ -1,3 +1,5 @@
+[Outdated] See [buaa-cli](https://github.com/fontlos/buaa-cli)
+
 > Make BUAA Great Again
 
 > This is an example for [buaa-api](https://github.com/fontlos/buaa-api)
